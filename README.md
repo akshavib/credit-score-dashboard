@@ -53,5 +53,5 @@ streamlit run app/dashboard.py
 
 ## 👤 Author
 Made by **Akshavi Baskaran** ✨  
-Feel free to fork, remix, or reach out!
+
 
