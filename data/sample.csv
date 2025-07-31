@@ -1,0 +1,11 @@
+income,payment_history_percent,debt_amount,credit_history_years,credit_score_category
+35000,75,12000,1,Poor
+45000,80,10000,2,Fair
+60000,90,8000,4,Fair
+72000,95,5000,6,Good
+85000,98,2000,8,Very Good
+95000,100,500,10,Excellent
+50000,65,15000,2,Poor
+80000,85,7000,7,Good
+40000,78,11000,3,Fair
+100000,99,1000,12,Excellent
